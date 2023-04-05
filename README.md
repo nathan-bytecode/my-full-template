@@ -9,5 +9,5 @@ https://nathan-bytecode.github.io/my-full-template/
 
 ## Features
 ### Navigation Bar
-Featured on all three pages, which includes link to the Index, Stream-Two and Stream-Three page and is identical in each page to allow for easy navigation.
+Featured on all three pages, which includes link to the Stream-One, Stream-Two and Stream-Three page and is identical in each page to allow for easy navigation.
 This section will allow the user to click from page to page without having to revert back to the previous page via the 'back' button.
